@@ -1,0 +1,18 @@
+{
+  "name": "electrol-todo",
+  "productName": "Harman Todo App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "hasanharman",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "electron": "^4.1.3"
+  }
+}
